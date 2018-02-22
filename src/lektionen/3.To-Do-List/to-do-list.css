@@ -1,0 +1,9 @@
+.ToDoList {
+    border: 1px solid black;
+    margin: 30px 5px;
+    padding: 10px;
+}
+
+.ToDoList-todo {
+    text-align: left;
+}
